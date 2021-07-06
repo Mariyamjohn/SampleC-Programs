@@ -1,0 +1,1 @@
+# Sample C# Program: A simple program in C# to display the available items in a Hotel Menu including the price, and a functionality to select one or multiple items and enter the number of each items and then calculate the total amount for the selected items.
